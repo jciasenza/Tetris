@@ -19,7 +19,7 @@ Juego de Tetris desarrollado con Python y Pygame como proyecto para portafolio.
 ## Instalacion
 
 ```bash
-git clone https://github.com/TU_USUARIO/tetris-python.git
+git clone https://github.com/jciasenza/Tetris.git
 cd tetris-python
 python -m venv .venv
 
@@ -52,4 +52,4 @@ python main.py
 
 ## Autor
 
-Proyecto creado por **TU NOMBRE**.
+Proyecto creado por Juan Carlos.
